@@ -1,0 +1,9 @@
+# ninja log v6
+2	296	7558717812697619	CMakeFiles/untitled.dir/main.c.obj	df92c0cbc3265aa4
+392	759	7558724091446808	untitled.exe	8dcbca4ca2b302a1
+271	392	7558724090243597	CMakeFiles/untitled.dir/src/main.c.obj	7c367ca2029b357b
+2	455	7558729761186766	build.ninja	4e45cf16bf77a9af
+21	271	7558724087741484	CMakeFiles/untitled.dir/src/list.c.obj	f0be758048f37f05
+25	282	7558724087778108	CMakeFiles/untitled.dir/src/virtual_mem.c.obj	e686fa6ccb02ffbe
+17	285	7558724087701488	CMakeFiles/untitled.dir/src/buddy_system.c.obj	f6a6a813658b0b0e
+15	235	7558739055749965	CMakeFiles/untitled.dir/src/buddy_system.c.obj	f6a6a813658b0b0e
